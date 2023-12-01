@@ -1,0 +1,340 @@
+body {
+    margin: 0 auto;
+}
+
+
+
+ .container {
+    display: flexbox;
+    background-color: #1F2937;
+    padding: 150px;
+    height: 200px;
+    background-size: cover
+}
+    
+
+    .all-link {
+        font-size: 18px;
+        color: #b1b7c4;
+    }
+     
+    .items1 {
+        display: flex;
+        position: relative;
+        justify-content: right;
+        bottom: 140px;
+        height: 0px;
+        width: 650px;
+        padding: 0px;
+       }
+
+
+        .link1 {
+            display: flex;
+            
+        }
+
+        /* link 2 */
+
+        .items2 {
+            display: flex;
+            position: relative;
+            justify-content: right;
+            height: 0px;
+            width: 850px;
+            bottom: 140px;
+        }
+
+        .link2 {
+            display: flex;
+        }
+
+        /* link 3 */
+
+        .items3 {
+            display: flex;
+            position: relative;
+            justify-content: right;
+            height: 0px;
+            width: 1050px;
+            bottom: 140px;
+        }
+
+        .link3 {
+            display: flex;
+        }
+
+.logo {
+    position: relative;
+    display: flex;
+    font-size: 24px;
+    color: #F9FAF8;
+    bottom: 120px;
+}
+
+/* sign up button */
+
+.h1 {
+    font-size: 48px;
+    color: #F9FAF8;
+    margin: 3px
+}
+
+
+.text {
+    color: #F9FAF8;
+}
+
+
+.flex-but {
+    display: flex;  
+    position: relative;  
+    bottom: -10px;
+}
+
+
+.but-first {
+    display: flexbox;
+    padding: 6px;
+    width: 90px;
+    height: 15px;
+    text-align: center;
+    color: rgb(255, 255, 255);
+    background-color: #3882F6;
+ }
+
+
+
+/* place for an image */
+
+ .place {
+    display: flex;
+    position: relative;
+    justify-content: right;
+    bottom: 210px;
+    width: 1050px;
+    height: 230px;
+    
+}
+
+.image {
+    display: flex;
+    padding: 100px;
+    background-color: #72757a;
+    color: #E5E7EB;
+}
+
+/* part two */
+
+ .title-two {
+    font-size: 36px;
+    color: #1F2937;
+}
+
+
+
+  .flex-box {
+    height: 210px;
+    padding: 6px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 40px;
+  }
+
+  .item {
+    width: 70px;
+    height: 45px;
+    border: 3px solid #7da3dd;
+    padding: 40px;
+  }
+   
+  /* for text */
+
+
+  .title1 {
+    display: flex;
+    position: relative;
+    justify-content: right;
+    bottom: 35px;
+    height: 0px;
+    width: 455px;
+    padding: 0px;
+   }
+
+    .title-1 {
+        display: flex;
+    }
+
+
+
+    .title2 {
+        display: flex;
+        position: relative;
+        justify-content: right;
+        bottom: 35px;
+        height: 0px;
+        width: 650px;
+        padding: 0px;
+       }
+    
+        .title-2 {
+            display: flex;
+        }
+
+
+
+        .title3 {
+            display: flex;
+            position: relative;
+            justify-content: right;
+            bottom: 35px;
+            height: 0px;
+            width: 845px;
+            padding: 0px;
+           }
+        
+            .title-3 {
+                display: flex;
+            }
+
+
+
+            .title4 {
+                display: flex;
+                position: relative;
+                justify-content: right;
+                bottom: 35px;
+                height: 0px;
+                width: 1040px;
+                padding: 0px;
+               }
+            
+                .title-4 {
+                    display: flex;
+                }
+
+                .for-text {
+                    color: #575b64;
+                }
+
+                /* center of page */
+
+
+                .center-page {
+                    height: 350px;
+                    margin: 100px;
+                    background-color: #E5E7EB;
+                }
+
+
+                .text-center {
+                    display: flex;
+                    position: relative;
+                    justify-content: center;
+                    bottom: -70px;
+                }
+
+                
+                .my-text {
+                    font-size: 36px;
+                    color: #444d5a;
+                }
+
+
+                .sitation {
+                    display: flex;
+                    position: relative;
+                    justify-content: right;
+                    height: 0px;
+                    width: 1020px;
+                    bottom: -70px;
+                    padding: 0px;
+                }
+
+                .sitation-1 {
+                    font-size: 20px;
+                }
+
+
+                /* Second buttom sign up */
+
+
+                 .sign-up-two {
+                 display: flexbox;
+                 padding: 150px;
+                 height: 20px;
+                 background-size: cover
+                }
+
+
+                .text-up {
+                    display: flex;
+                    position: relative;
+                    justify-content: center;
+                    bottom: 205px;
+                    padding: 30px;
+                    margin: 100px;
+                    background-color: #4d87e4;
+                }
+
+               
+                 .action {
+                    display: flex;
+                    position: relative;
+                    justify-content: center;
+                    height: px;
+                    bottom: 20px;
+                    color: aliceblue;
+                }
+            
+
+                .text-bottom {
+                    display: flex;
+                    position: relative;
+                    justify-content: right;
+                    right: 189px;
+                    bottom: -4px;
+                    color: #dde0e6;
+                }
+
+
+                /* button 2*/
+
+
+                .second-button {
+                    display: flexbox;
+                    position: relative;
+                    justify-content: right;
+                    bottom: -10px;
+                    width: 100px;
+                }
+
+                 .button-two {
+                    display: flexbox;
+                    padding: 6px;
+                    width: 90px;
+                    height: 15px;
+                    border: 2px solid white;
+                    text-align: center;
+                    color: rgb(255, 254, 254);
+                 }
+                
+
+
+
+                 /* footer */
+
+                 .last {
+                    background-color: #1F2937;
+                    height: 120px;
+                    color: #b1b7c4;
+                 }
+
+                .copyright {
+                    display: flex;
+                    position: relative;
+                    justify-content: center;
+                    bottom: 100px;
+                    height: 33px;
+                }
